@@ -1,0 +1,211 @@
+2024-07-08 07:33:55,751 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:33:55,763 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 07:33:55,764 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:33:55,765 - INFO - mingle: searching for neighbors
+2024-07-08 07:33:56,774 - INFO - mingle: all alone
+2024-07-08 07:33:56,797 - INFO - celery@SendTheClown.local ready.
+2024-07-08 07:35:38,330 - INFO - Task oaback.celery.debug_task[f9d55d81-70e7-4d3e-b92f-936bb7c972b8] received
+2024-07-08 07:35:38,334 - WARNING - Request: <Context: {'lang': 'py', 'task': 'oaback.celery.debug_task', 'id': 'f9d55d81-70e7-4d3e-b92f-936bb7c972b8', 'shadow': None, 'eta': None, 'expires': None, 'group': None, 'group_index': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'f9d55d81-70e7-4d3e-b92f-936bb7c972b8', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen4849@SendTheClown.local', 'ignore_result': True, 'replaced_task_nesting': 0, 'stamped_headers': None, 'stamps': {}, 'properties': {'correlation_id': 'f9d55d81-70e7-4d3e-b92f-936bb7c972b8', 'reply_to': '08488f25-3300-3741-a1ba-0517f21918f6', 'delivery_mode': 2, 'delivery_info': {'exchange': '', 'routing_key': 'celery'}, 'priority': 0, 'body_encoding': 'base64', 'delivery_tag': '9b797619-1343-438c-8792-fc3a0f82613f'}, 'reply_to': '08488f25-3300-3741-a1ba-0517f21918f6', 'correlation_id': 'f9d55d81-70e7-4d3e-b92f-936bb7c972b8', 'hostname': 'celery@SendTheClown.local', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': False}, 'args': [], 'kwargs': {}, 'is_eager': False, 'callbacks': None, 'errbacks': None, 'chain': None, 'chord': None, 'called_directly': False, 'headers': None, '_protected': 1}>
+2024-07-08 07:35:38,335 - INFO - Task oaback.celery.debug_task[f9d55d81-70e7-4d3e-b92f-936bb7c972b8] succeeded in 0.0020379159977892414s: None
+2024-07-08 07:36:37,765 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:36:37,770 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 07:36:37,771 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:36:37,773 - INFO - mingle: searching for neighbors
+2024-07-08 07:36:38,779 - INFO - mingle: all alone
+2024-07-08 07:36:38,792 - INFO - celery@SendTheClown.local ready.
+2024-07-08 07:38:05,346 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:38:05,351 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 07:38:05,351 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:38:05,352 - INFO - mingle: searching for neighbors
+2024-07-08 07:38:06,359 - INFO - mingle: all alone
+2024-07-08 07:38:06,378 - INFO - celery@SendTheClown.local ready.
+2024-07-08 07:38:22,479 - INFO - Task oaback.celery.debug_task[df241bad-9939-49ff-afba-e4414e4ac327] received
+2024-07-08 07:38:22,481 - WARNING - xxxxxxxxxxxxxxxxxxxxxxx
+2024-07-08 07:38:22,482 - INFO - Task oaback.celery.debug_task[df241bad-9939-49ff-afba-e4414e4ac327] succeeded in 0.0015380420081783086s: None
+2024-07-08 07:40:05,985 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:40:05,989 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 07:40:05,990 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:40:05,991 - INFO - mingle: searching for neighbors
+2024-07-08 07:40:06,999 - INFO - mingle: all alone
+2024-07-08 07:40:07,019 - INFO - celery@SendTheClown.local ready.
+2024-07-08 07:40:07,476 - INFO - Task oaback.celery.debug_task[1716d59a-f5a2-45fa-afd3-0e4fbe3a9cb7] received
+2024-07-08 07:40:07,478 - WARNING - Request: <Context: {'lang': 'py', 'task': 'oaback.celery.debug_task', 'id': '1716d59a-f5a2-45fa-afd3-0e4fbe3a9cb7', 'shadow': None, 'eta': None, 'expires': None, 'group': None, 'group_index': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '1716d59a-f5a2-45fa-afd3-0e4fbe3a9cb7', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen6636@SendTheClown.local', 'ignore_result': True, 'replaced_task_nesting': 0, 'stamped_headers': None, 'stamps': {}, 'properties': {'correlation_id': '1716d59a-f5a2-45fa-afd3-0e4fbe3a9cb7', 'reply_to': '113a5f41-4991-38fe-b38b-bcdc3cc40a6c', 'delivery_mode': 2, 'delivery_info': {'exchange': '', 'routing_key': 'celery'}, 'priority': 0, 'body_encoding': 'base64', 'delivery_tag': '1d17e569-7ea4-4b33-a788-daeac8524d83'}, 'reply_to': '113a5f41-4991-38fe-b38b-bcdc3cc40a6c', 'correlation_id': '1716d59a-f5a2-45fa-afd3-0e4fbe3a9cb7', 'hostname': 'celery@SendTheClown.local', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': False}, 'args': [], 'kwargs': {}, 'is_eager': False, 'callbacks': None, 'errbacks': None, 'chain': None, 'chord': None, 'called_directly': False, 'headers': None, '_protected': 1}>
+2024-07-08 07:40:07,479 - INFO - Task oaback.celery.debug_task[1716d59a-f5a2-45fa-afd3-0e4fbe3a9cb7] succeeded in 0.0016726250032661483s: None
+2024-07-08 07:56:44,186 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:56:44,191 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 07:56:44,191 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 07:56:44,194 - INFO - mingle: searching for neighbors
+2024-07-08 07:56:45,201 - INFO - mingle: all alone
+2024-07-08 07:56:45,216 - INFO - celery@SendTheClown.local ready.
+2024-07-08 08:49:14,537 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 08:49:14,552 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 08:49:14,552 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 08:49:14,553 - INFO - mingle: searching for neighbors
+2024-07-08 08:49:15,562 - INFO - mingle: all alone
+2024-07-08 08:49:15,580 - INFO - celery@SendTheClown.local ready.
+2024-07-08 08:57:18,597 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 08:57:18,603 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 08:57:18,604 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 08:57:18,605 - INFO - mingle: searching for neighbors
+2024-07-08 08:57:19,628 - INFO - mingle: all alone
+2024-07-08 08:57:19,659 - INFO - celery@SendTheClown.local ready.
+2024-07-08 09:02:34,221 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 09:02:34,226 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 09:02:34,227 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 09:02:34,229 - INFO - mingle: searching for neighbors
+2024-07-08 09:02:35,237 - INFO - mingle: all alone
+2024-07-08 09:02:35,255 - INFO - celery@SendTheClown.local ready.
+2024-07-08 10:50:17,028 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 10:50:17,034 - INFO - Connected to redis://localhost:6379/1
+2024-07-08 10:50:17,034 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-08 10:50:17,035 - INFO - mingle: searching for neighbors
+2024-07-08 10:50:18,042 - INFO - mingle: all alone
+2024-07-08 10:50:18,086 - INFO - celery@SendTheClown.local ready.
+2024-07-08 11:14:25,673 - INFO - Task send_email_task[6b9f97f6-d204-4fb1-aa16-46f9607d2ce0] received
+2024-07-08 11:14:27,114 - INFO - Task send_email_task[6b9f97f6-d204-4fb1-aa16-46f9607d2ce0] succeeded in 1.3451587080053287s: None
+2024-07-09 13:33:57,270 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-09 13:33:57,286 - ERROR - consumer: Cannot connect to redis://localhost:6379/1: Error 61 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+2024-07-09 13:33:59,300 - ERROR - consumer: Cannot connect to redis://localhost:6379/1: Error 61 connecting to localhost:6379. Connection refused..
+Trying again in 4.00 seconds... (2/100)
+
+2024-07-09 13:34:03,315 - ERROR - consumer: Cannot connect to redis://localhost:6379/1: Error 61 connecting to localhost:6379. Connection refused..
+Trying again in 6.00 seconds... (3/100)
+
+2024-07-09 13:34:09,357 - ERROR - consumer: Cannot connect to redis://localhost:6379/1: Error 61 connecting to localhost:6379. Connection refused..
+Trying again in 8.00 seconds... (4/100)
+
+2024-07-09 13:34:17,390 - ERROR - consumer: Cannot connect to redis://localhost:6379/1: Error 61 connecting to localhost:6379. Connection refused..
+Trying again in 10.00 seconds... (5/100)
+
+2024-07-09 13:34:27,433 - ERROR - consumer: Cannot connect to redis://localhost:6379/1: Error 61 connecting to localhost:6379. Connection refused..
+Trying again in 12.00 seconds... (6/100)
+
+2024-07-09 13:34:39,493 - INFO - Connected to redis://localhost:6379/1
+2024-07-09 13:34:39,496 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-09 13:34:39,502 - INFO - mingle: searching for neighbors
+2024-07-09 13:34:40,512 - INFO - mingle: all alone
+2024-07-09 13:34:40,530 - INFO - celery@SendTheClown.local ready.
+2024-07-09 13:34:44,859 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-09 13:34:44,864 - INFO - Connected to redis://localhost:6379/1
+2024-07-09 13:34:44,864 - WARNING - /Users/yao/Desktop/code/drflearn/.venv/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2024-07-09 13:34:44,877 - INFO - mingle: searching for neighbors
+2024-07-09 13:34:45,885 - INFO - mingle: all alone
+2024-07-09 13:34:45,905 - INFO - celery@SendTheClown.local ready.
+2024-07-09 13:34:45,908 - INFO - Task send_email_task[2b68efc3-52f8-4868-b714-2f13f9141bd7] received
+2024-07-09 13:34:47,130 - INFO - Task send_email_task[2b68efc3-52f8-4868-b714-2f13f9141bd7] succeeded in 1.2190448750043288s: None
+2024-07-10 00:45:18,724 - INFO - Task send_email_task[e877a377-b990-4ac3-96d3-4b51f96bb31c] received
+2024-07-10 00:45:20,191 - INFO - Task send_email_task[e877a377-b990-4ac3-96d3-4b51f96bb31c] succeeded in 1.3962915840093046s: None
+2024-07-10 01:03:20,504 - INFO - Task send_email_task[18275463-2006-4f0e-a356-0ab3afe413e3] received
+2024-07-10 01:03:21,770 - INFO - Task send_email_task[18275463-2006-4f0e-a356-0ab3afe413e3] succeeded in 1.2428564580040984s: None
